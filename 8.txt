@@ -1,0 +1,4 @@
+1.False or True == True
+2. false and True or True ==  True 
+3. False  or  True and true = True
+4.  False and False and False = False  
